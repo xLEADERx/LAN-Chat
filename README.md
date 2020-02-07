@@ -1,5 +1,5 @@
 # LAN-Chat
-This python script allow users to communticate with each orther via LAN Connection.
+This python script allow users to communticate with each orther via LAN Connection through sockets.
 
 # Requirements 
   compatible with python version >= 3.7.3
