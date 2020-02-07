@@ -15,9 +15,9 @@ eg:
   python server.py 192.168.0.1 1234
   
 # ARGS to run client.py
-python server.py <your.server.ip.add> <portno>
+python client.py <your.server.ip.add> <portno>
 eg: 
-  python server.py 192.168.0.1 1234
+  python client.py 192.168.0.1 1234
   
 # ARGS to get your ip add 
 windows:
