@@ -1,7 +1,10 @@
 # LAN-Chat
 This python script allow users to communticate with each orther via LAN Connection.
 
-#SET-UP
+# Requirements 
+  compatible with python version >= 3.7.3
+  
+# SET-UP
 
 1) Run server.py to make any computer a sever 
 2) once the server is connected now you can make as many clients as you want
